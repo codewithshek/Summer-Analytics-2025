@@ -105,7 +105,7 @@ Dynamic_Pricing_Parking/
 
 ```bash
 # Step 1: Clone the repo
-git clone https://github.com/your-username/dynamic-parking-pricing.git
+git clone https://github.com/codewithshek/Summer-Analytics-2025.git
 
 # Step 2: Install dependencies
 pip install pathway pandas numpy bokeh
